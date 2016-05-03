@@ -24,4 +24,4 @@ even if you aren’t familiar with them.
 They explain how to work with the existing code to modify the tool.
 To learn how to build a preference editor using the Preferences Framework,
 check out our
-[Preferences Framework Tutorial](http://docs.fluidproject.org/infusion/development/tutorial-creatingAPreferencesEditorUsingThePreferencesFramework/CreatingAPreferencesEditorUsingThePreferencesFramework.html).
+[Preferences Framework Tutorial](http://docs.fluidproject.org/infusion/development/tutorial-prefsFramework/CreatingAPrefsEditor.html).
